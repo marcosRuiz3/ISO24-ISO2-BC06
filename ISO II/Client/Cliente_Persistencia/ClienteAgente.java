@@ -18,7 +18,7 @@ public class ClienteAgente {
 		throw new UnsupportedOperationException();
 	}
 
-	public void insert(String_ aSQL) {
+	public void insert(String aSQL) {
 		throw new UnsupportedOperationException();
 	}
 
