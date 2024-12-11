@@ -3,11 +3,11 @@ package Server_Dominio;
 public class AuthService {
 	private UserRepository _userRepository;
 
-	public User authenticate(String aUsername, String aPassword) {
+	public Usuario authenticate(String aUsername, String aPassword) {
 		throw new UnsupportedOperationException();
 	}
 
-	public void register(User aUser) {
+	public void register(Usuario aUser) {
 		throw new UnsupportedOperationException();
 	}
 

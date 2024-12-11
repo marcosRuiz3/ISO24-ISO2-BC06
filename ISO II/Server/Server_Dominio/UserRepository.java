@@ -3,11 +3,11 @@ package Server_Dominio;
 public class UserRepository {
 	private DatabaseAgent _databaseConnection;
 
-	public User findUserByUsername(String aUsername) {
+	public Usuario findUserByUsername(String aUsername) {
 		throw new UnsupportedOperationException();
 	}
 
-	public void saveUser(User aUser) {
+	public void saveUser(Usuario aUser) {
 		throw new UnsupportedOperationException();
 	}
 }
